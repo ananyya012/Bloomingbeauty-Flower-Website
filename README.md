@@ -1,5 +1,5 @@
 # Bloomingbeauty-Flower-Website
-  <img src="https://github.com/ananyaa012/Portfolio_website1/blob/main/Portfolio1/images/Screenshot%202024-07-17%20174217.png">
+  <img src="https://github.com/ananyaa012/Bloomingbeauty-Flower-Website/blob/main/Bloomingbeauty/img/Screenshot%202024-07-17%20180749.png">
 </div>
 
 
