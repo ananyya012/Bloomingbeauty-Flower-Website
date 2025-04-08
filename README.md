@@ -1,5 +1,5 @@
 # Bloomingbeauty-Flower-Website
-  <img src="https://github.com/ananyaa012/Bloomingbeauty-Flower-Website/blob/main/Bloomingbeauty/img/Screenshot%202024-07-17%20180749.png">
+  <img src="https://github.com/ananyya012/Bloomingbeauty-Flower-Website/blob/main/Bloomingbeauty/img/Screenshot%202024-07-17%20180749.png">
 </div>
 
 
@@ -44,7 +44,7 @@ To set up **BloomingBeauty** locally, follow these steps:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/ananyaa012/bloomingbeauty.git
+   git clone https://github.com/ananyya012/bloomingbeauty.git
    ```
 
 2. **Navigate to the project directory**:
